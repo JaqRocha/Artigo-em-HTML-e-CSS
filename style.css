@@ -24,8 +24,8 @@ body {
     /*Fica ao meio*/
 
     /*Tamanho de telas menores*/
-    min-width: 400px;
-    max-width: 800px;
+    min-width: 300px;
+    max-width: 100px;
 }
 
 header {
