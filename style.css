@@ -25,7 +25,7 @@ body {
 
     /*Tamanho de telas menores*/
     min-width: 300px;
-    max-width: 100px;
+    max-width: 900px;
 }
 
 header {
@@ -133,6 +133,9 @@ section.final {
     padding: 20px;
     border-radius: 5px;
     text-align: center;
+
+    min-width: 300px;
+    max-width: 900px;
 }
 
 section.final > h3 {
